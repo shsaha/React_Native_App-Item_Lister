@@ -1,0 +1,3 @@
+rootProject.name = 'itemlister'
+
+include ':app'
